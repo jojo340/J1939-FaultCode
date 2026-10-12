@@ -1,59 +1,30 @@
-# Privacy Policy
+1939 Fault Code Lookup — Privacy Policy
 
-Effective Date: June 9, 2026
+Last updated: 2026-10-10
 
-J1939 FaultCode respects your privacy. This Privacy Policy explains how the app handles information when you use it.
+This Privacy Policy explains how "J1939 Fault Code Lookup" (the "App") handles your information.
 
-## Information We Collect
+1. Information We Collect
+The App is an offline tool. Its core features (fault code lookup, signal database, favorites and history) run entirely on your device:
+- The App itself does not collect or upload any personal information.
+- Your favorites, search history and language preference are stored locally on your device only, and are removed when you delete the App.
 
-J1939 FaultCode does not require users to create an account, sign in, or provide personal information.
+2. Third-Party Services
+a) Advertising (Umeng Ads / Unity Ads)
+The free version selects its advertising provider by device region: Umeng Ads in mainland China and Unity Ads (Unity Technologies) elsewhere. These advertising SDKs may collect device identifiers (such as the IDFA), coarse location, device information and ad interaction data for ad delivery and measurement. See their privacy policies: https://www.umeng.com/page/policy and https://unity.com/legal/privacy-policy
+On iOS, the App presents an App Tracking Transparency (ATT) prompt to request tracking permission, which you may decline; you can also disable tracking anytime under Settings > Privacy & Security > Tracking.
+After purchasing the Pro upgrade, no ads are shown in the App.
+b) In-App Purchases (Apple)
+The Pro upgrade is processed by the Apple App Store (StoreKit). We never access your payment information; transactions are handled by Apple under Apple's privacy policy.
 
-The app may store the following information locally on your device:
-- Favorite fault codes
-- Lookup history
-- Language preference
+3. Children's Privacy
+The App is intended for professional technicians and is not directed at children under 13. We do not knowingly collect personal information from children.
 
-This information is stored on your device and is used only to provide app features.
+4. Data Security
+The App operates no servers of its own and transmits no data to us.
 
-## Advertising
+5. Your Rights
+You can erase all local data at any time by deleting the App, and manage ad-tracking permission in system settings.
 
-J1939 FaultCode uses Google AdMob to display ads. Google AdMob may collect and process certain information, such as device identifiers, advertising identifiers, approximate location, app usage data, and diagnostic data, in order to provide ads, measure ad performance, prevent fraud, and comply with legal requirements.
-
-Advertising data is processed by Google according to Google’s own privacy policies and advertising technologies.
-
-Google Privacy Policy:
-https://policies.google.com/privacy
-
-Google AdMob:
-https://admob.google.com/
-
-## Privacy Choices
-
-Where required, the app may show a privacy consent message or provide advertising privacy choices through Google’s User Messaging Platform. You can review or change available ad privacy choices inside the app when the option is shown.
-
-You can also manage advertising tracking permissions through iOS system settings.
-
-## Data Sharing
-
-We do not sell your personal information.
-
-We do not directly share your personal information with third parties. However, third-party advertising services such as Google AdMob may collect and process data as described above.
-
-## Children’s Privacy
-
-J1939 FaultCode is not directed to children under 13. We do not knowingly collect personal information from children.
-
-## Data Security
-
-We use reasonable measures to protect app-related data. However, no method of electronic storage or transmission is completely secure.
-
-## Changes to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
-
-## Contact Us
-
-If you have questions about this Privacy Policy, please contact us:
-
-Email: yangnote@qq.com
-
+6. Changes to This Policy
+We may update this policy from time to time. Updates will be posted on this page with a revised "Last updated" date.
